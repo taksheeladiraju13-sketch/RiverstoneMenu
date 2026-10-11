@@ -1,0 +1,15 @@
+name: RiverstoneMenu
+version: 1.0.0
+main: com.riverstone.menu.RiverstoneMenu
+api-version: '1.21'
+author: RiverstoneSMP
+description: Custom Riverstone server selector compass for Java and Bedrock players.
+commands:
+  riverstonemenu:
+    description: Opens the Riverstone server menu.
+    usage: /riverstonemenu
+    aliases: [rmenu, rs-menu]
+permissions:
+  riverstonemenu.use:
+    description: Allows opening the Riverstone menu.
+    default: true

@@ -1,0 +1,4 @@
+# These must match the server names under [servers] in velocity.toml exactly.
+servers:
+  lobby: "lobby"
+  pvp: "Riverstone-pvp"
